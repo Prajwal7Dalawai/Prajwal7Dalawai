@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Dalawai</h1><hr>
 <h3 align="center">I am a student currently pursuing my 2nd year B.E. I aspire to become a full stack, software developer and apply my knowledge and skills on these to solve real world problems and contribute to nation and society. My interest are in web development, app development, software development, Artificial intelligence and machine learning. I am currently learning full stack web development.</h3><hr>
-<img align="center" alt="Coding" width="1100" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
+<img align="center" alt="Coding" width="800" hieght="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
 <hr>
 - 🏫 I’m currently studying **2nd year Engineering in SDMCET, Dharwad**
 
