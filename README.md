@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prajwal Dalawai</h1><hr>
-<h3 align="center">I am a student currently pursuing my 2nd year B.E. I aspire to become a full stack, software developer and apply my knowledge and skills on these to solve real world problems and contribute to nation and society. My interest are in web development, app development, software development, Artificial intelligence and machine learning. I am currently learning full stack web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"><br>
+<h3 align="center">I am a student currently pursuing my 2nd year B.E. I aspire to become a full stack, software developer and apply my knowledge and skills on these to solve real world problems and contribute to nation and society. My interest are in web development, app development, software development, Artificial intelligence and machine learning. I am currently learning full stack web development.</h3><hr>
+<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"><br>
 - 🏫 I’m currently studying **2nd year Engineering in SDMCET, Dharwad**
 
 - 🌱 I’m currently learning **Full stack web development**
 
 - 👯 I’m looking to collaborate on **Image processing techniques using AI modules**
 
-- 💬 Ask me about **Python, Frontend(web)**
+- 💬 Ask me about: **Python, Frontend(web)**
 
-- 📫 How to reach me **prajwaldalawai123@gmail.com**
+- 📫 How to reach me: **prajwaldalawai123@gmail.com**
 
-- ⚡ True fact **Im really a good dancer.😁**
+- ⚡ True fact:- **Im really a good dancer.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
