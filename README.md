@@ -4,7 +4,7 @@
 
 - 🏫 I’m currently studying **3rd year Engineering in SDMCET, Dharwad**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Generative AI, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Image processing techniques using AI modules**
 
