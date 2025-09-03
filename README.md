@@ -1,18 +1,36 @@
-<h1 align="center">Hi 👋, I'm Prajwal Dalawai</h1><hr>
-<h3 align="center">I am a student currently pursuing my 4th year B.E. I aspire to become a full stack, software developer and apply my knowledge and skills on these to solve real-world problems and contribute to the nation and society. My interests are in web development, app development, software development, Generative AI, Artificial intelligence, and machine learning. I completed learning Full stack with MERN technologies and am currently learning Machine Learning Concepts. I am keenly interested in the experimental areas as well as coding and I am well-versed in C/C++, Java, Python, and JavaScript.</h3>
-<img align="center" alt="Coding" width="800" hieght="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"></img>
+# 👋 Hi, I'm Prajwal  
 
-- 🏫 I’m currently studying **3rd year Engineering in SDMCET, Dharwad**
+🚀 Full-stack and systems-focused developer passionate about building scalable, reliable, and innovative software solutions.  
 
-- 🌱 I’m currently learning **Generative AI, Machine Learning**
+---
 
-- 👯 I’m looking to collaborate on **Image processing techniques using AI modules**
+## 🛠️ About Me
+- 💻 Skilled in **Python, C++, Java, and MERN stack** with proven end-to-end project ownership from **design → development → deployment**.  
+- 📚 Strong foundation in **Data Structures & Algorithms, Operating Systems, Computer Networks, and RDBMS** with hands-on problem-solving experience.  
+- ☁️ Experienced in **scalable distributed systems, cloud-integrated applications, and machine learning pipelines**.  
+- 📖 Published **Springer research paper** on camouflage detection using YOLO — tackling real-world complex and undefined problems.  
+- ⚡ Recognized for **performance optimization, responsibility-first approach, and innovation** in building high-impact solutions.  
 
-- 💬 Ask me about: **Python, Full Stack development with MERN Stack Technologies**
+---
 
-- 📫 How to reach me: **prajwaldalawai123@gmail.com**
+## 🌟 Highlights
+- 🔹 **Full-stack Web Development**: MERN-based projects with secure, scalable architectures.  
+- 🔹 **System Design & Optimization**: Built efficient distributed and cloud-based systems.  
+- 🔹 **AI/ML Projects**: Applied YOLO for camouflage detection; developed ML pipelines.  
+- 🔹 **Problem-Solving**: 5⭐ HackerRank coder with strong algorithmic skills.
+-  ⚡ True fact:- **Im really a good dancer.😁**
 
-- ⚡ True fact:- **Im really a good dancer.😁**
+---
+
+## 📫 Connect with Me
+- 🌐 Portfolio: *[Add your portfolio link here]*  
+- 💼 LinkedIn: *[Add LinkedIn link here]*  
+- 📧 Email: *[Add your email here]*  
+
+---
+
+⭐️ *Always open to collaboration, learning, and building impactful tech solutions.*  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
